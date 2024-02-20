@@ -11,3 +11,8 @@ sh run_test1.sh
 ```bashs
 sh run_test2.sh
 ```
+Team XYZ
+Nathan Nguyen
+Emma Jauregui
+Leung Wang Chan
+Victoria Parry
